@@ -4,18 +4,18 @@
 <a href="https://github.com/Sohxn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+ 
 <a href="https://twitter.com/ItzmeeeOfc" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+ 
 <a href="https://www.linkedin.com/in/sohan-c-44736a245/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://instagram.com/sohxnnn.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink alt=instagram style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
@@ -40,7 +40,7 @@ Hi, I'm Sohan.<br>I am an undergrad CS student at Kalinga Institute of Industria
 <br/>
 
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sohxn&icon=0&color=0)](https://visitcount.itsvg.in)
