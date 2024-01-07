@@ -2,7 +2,7 @@
  
 <div align="center">
 <p>
-<a href='https://www.instagram.com/sohxnnn.exe' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a><a href='https://github.com/Sohxn' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=000000&color=B700FF'/></a><a href='https://www.linkedin.com/in/sohan-c-44736a245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=0072b1'/></p>
+<a href='https://www.instagram.com/sohxnnn.exe' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a><a href='https://github.com/Sohxn' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=000000&color=B700FF'/></a><a href='https://www.linkedin.com/in/sohan-c-44736a245/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=0072b1'/><a href='https://twitter.com/ItzmeeeOfc' target="_blank"><img alt='twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=000000&color=0072b1'/></p>
 </div>  
   
 
