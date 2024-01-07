@@ -1,20 +1,8 @@
 
  
 <div align="center">
-<a href="https://github.com/Sohxn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
- 
-<a href="https://twitter.com/ItzmeeeOfc" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
- 
-<a href="https://www.linkedin.com/in/sohan-c-44736a245/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://instagram.com/sohxnnn.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohxnnn.exe" height="30" width="40" /></a>
-
+<p>
+<a href='https://www.instagram.com/shuffyy/' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a><a href='https://github.com/ShubhangiXD' target="_blank"><img alt='Github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=Github&logoColor=FFFFFF&labelColor=000000&color=B700FF'/></a><a href='https://www.codecademy.com/profiles/ShubhangiXD' target="_blank"><img alt='Codecademy' src='https://img.shields.io/badge/Codecademy-100000?style=for-the-badge&logo=Codecademy&logoColor=white&labelColor=black&color=1F1449'/></a> <a href='https://www.linkedin.com/in/shubhangi-dutta/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=000000&color=0072b1'/><a href='https://www.kaggle.com/shubhangixd' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/KAGGLE-100000?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=black&color=31A6FF'/></a></a> <a href='https://discord.com/channels/@me/755808235658805412' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=000000&color=7289da'/></a> <a href='https://www.hackerrank.com/d_shubhangi1510' target="_blank"><img alt='Hackerrank' src='https://img.shields.io/badge/Hackerrank-100000?style=for-the-badge&logo=Hackerrank&logoColor=white&labelColor=000000&color=00B304'/><a href='https://tracker.gg/valorant/profile/riot/RNX%20Candy%E7%94%98%E3%81%84%23sweet/overview' target="_blank"><img alt='Valorant' src='https://img.shields.io/badge/Valorant-100000?style=for-the-badge&logo=Valorant&logoColor=white&labelColor=black&color=FA4454'/></a></a> <a href='https://replit.com/@ShubhangiXD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=Replit&logoColor=white&labelColor=000000&color=FF7C00'/></a> <a href='https://leetcode.com/ShubhangiXD/' target="_blank"><img alt='Leetcode' src='https://img.shields.io/badge/Leetcode-100000?style=for-the-badge&logo=Leetcode&logoColor=white&labelColor=000000&color=FF9900'/></a> <a href='https://www.codechef.com/users/shubhangixd' target="_blank"><img alt='codechef' src='https://img.shields.io/badge/Codechef-100000?style=for-the-badge&logo=codechef&logoColor=white&labelColor=000000&color=8D7150'/></a></p>
 </div>  
   
 
