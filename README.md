@@ -9,7 +9,7 @@
 <br/>  
 
 
-# 💫 About Me:
+#  About Me:
 Hi, I'm Sohan.<br>I am an undergrad CS student at Kalinga Institute of Industrial Technology, BBSR. I love to work on a wide range of web apps. Also I am a 3D artist and love integrating 3D models in websites. Recently I have started working on various shared tasks on Natural language processing in the field of Machine learning
 <br/>
 I use Arch btw
