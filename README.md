@@ -18,26 +18,21 @@ I use Arch btw
 <br/>
 
 # Tech Stack:
-<div align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
+<div align="center" style="border: 1px solid #aaa; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" alt="C++">
+    <img src="Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Script">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" alt="TailwindCSS">
     <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg" alt="Blender">
 </div>
 
 <br/>
-
-<div style="border: 1px solid #aaa; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
-  
-</div>
 
 <br/>
 
