@@ -9,8 +9,8 @@
 <br/>  
 
 
-About Me:
-Hi, I'm Sohan.<br>I am an undergrad CS student at Kalinga Institute of Industrial Technology, BBSR. I love to work on a wide range of web apps. Also I am a 3D artist and love integrating 3D models in websites. Recently I have started working on various shared tasks on Natural language processing in the field of Machine learning
+# About Me:
+Hi, I'm Sohan.<br>I am an undergrad CS student at Kalinga Institute of Industrial Technology, BBSR. I love to work on a wide range of web apps. Also I am a 3D artist and love integrating 3D models in websites. Recently I have started working on various projects in the field of Machine learning
 <br/>
 I use Arch btw
 
@@ -37,7 +37,7 @@ I use Arch btw
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sohxn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohxn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohxn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 
 <br/>
 
