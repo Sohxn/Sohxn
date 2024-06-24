@@ -19,18 +19,43 @@ I use Arch btw
 
 # Tech Stack:
 <div align="center" style="border: 1px solid #aaa; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" alt="C++">
-    <img src="Badges/badges/Javascript/javascript3.svg" alt="JavaScript">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Script">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg" alt="Blender">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" alt="C++" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="Badges/badges/Javascript/javascript3.svg" alt="JavaScript" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="Mongo" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Script" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" alt="TailwindCSS" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg" alt="Blender" style="max-width: 100px;">
+        </div>
+        <div style="margin: 5px;">
+            <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" alt="" style="max-width: 100px;">
+        </div>
+    </div>
 </div>
+
 
 <br/>
 
