@@ -35,9 +35,9 @@ I use Arch btw
 
 <br/>
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sohxn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohxn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<div style="border: 1px solid #aaa; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
+  
+</div>
 
 <br/>
 
