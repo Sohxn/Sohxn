@@ -27,6 +27,7 @@ I use Arch btw
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="Node">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" alt="TailwindCSS">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flutter/flutter1.svg" alt="flutter">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Blender/blender1.svg" alt="Blender">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ReactNative/reactnative2.svg" alt="">
 </div>
