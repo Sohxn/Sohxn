@@ -10,7 +10,7 @@
 
 
 # About Me:
-Hi, I'm Sohan.<br>I am a CS and Systems Engg grad. I love to work on a wide range of web apps. I am also am a 3D artist and love working with 3D models in websites and apps.
+Hi, I'm Sohan.<br>I am a CS and Systems Engg grad. I love to work on a wide range of web apps. I am also a 3D artist and love working with 3D models in websites and apps.
 <br/>
 I use Arch btw
 
