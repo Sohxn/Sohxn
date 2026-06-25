@@ -10,7 +10,7 @@
 
 
 # About Me:
-Hi, I'm Sohan.<br>I am an undergrad CS student at Kalinga Institute of Industrial Technology, BBSR. I love to work on a wide range of web apps. Also I am a 3D artist and love integrating 3D models in websites. Recently I have started working on various projects in the field of Machine learning
+Hi, I'm Sohan.<br>I am a CS and Systems Engg grad. I love to work on a wide range of web apps. I am also am a 3D artist and love working with 3D models in websites and apps.
 <br/>
 I use Arch btw
 
@@ -21,7 +21,7 @@ I use Arch btw
 <div align="center" style="border: 1px solid #aaa; border-radius: 5px; padding: 10px; background-color: #f0f0f0;">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="C">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" alt="C++">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="Mongo">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" alt="go">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell3.svg" alt="Shell Script">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" alt="Python">
